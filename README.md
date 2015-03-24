@@ -91,7 +91,7 @@ List of [Choosatron](http://choosatron.com/) Repositories
 
 For assets and designs related to the physical hardware of the Choosatron Kits.
 
-* [Kit-Assets](https://github.com/choosatron/kit-assets)&#8201;&mdash;&#8201;Choosatron Kit Asset Files
+* [Kit-Assets](https://github.com/choosatron/kit-assets)&#8201;&mdash;&#8201;Choosatron Kit Asset Files - *Still to Come*
 
 ### Firmware
 
