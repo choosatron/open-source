@@ -65,7 +65,7 @@ For reference, the standard open source license used by Monkey with a Mustache f
 
 In addition to our CLA, we have a policy where we avoid owning code that we don’t intend
 to maintain through use. If your patch is not in-line with our intended use case
-at Medium we will not merge it into any of our trees. But don't be discouraged! If
+at Monkey with a Mustache we will not merge it into any of our trees. But don't be discouraged! If
 that’s the case, we encourage you to run your own fork. Email us with a link to it
 and we will consider linking to it from the main repo.
 
